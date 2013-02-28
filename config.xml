@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://www.jupiterbroadcasting.com">
+	<name>sniggle.me partner links</name>
+	<description>Upon visit of a site affiliated with sniggle.me, the extension adds the affiliation tag and lets sniggle.me participate from your shopping</description>
+  	<author href="http://www.sniggle.me" email="iulius@sniggle.me">Iulius Gutberlet</author>
+  	<icon src="icons/icon_128.png"/>
+  	<icon src="icons/icon_64.png"/>
+  	<license href="http://www.apache.org/licenses/LICENSE-2.0">
+    Copyright 2013 Iulius Gutberlet
+
+   	Licensed under the Apache License, Version 2.0 (the "License");
+   	you may not use this file except in compliance with the License.
+   	You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   	Unless required by applicable law or agreed to in writing, software
+   	distributed under the License is distributed on an "AS IS" BASIS,
+   	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   	See the License for the specific language governing permissions and
+   	limitations under the License.
+  	</license>
+</widget>
